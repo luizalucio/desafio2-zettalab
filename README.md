@@ -58,12 +58,6 @@ Todas as visualizações são salvas em `outputs/mapas`.
 
 Aqui estão as visualizações geradas pela análise do projeto, destacando as propriedades rurais com desmatamento no Amapá e estatísticas relevantes.
 
-### Mapa de Desmatamento no Amapá
-![Mapa de Desmatamento no Amapá](outputs/mapas/mapa_desmatamento_amapa.png)
-
-### Gráficos Estatísticos
-![Gráficos Estatísticos da Análise](outputs/mapas/graficos_estatisticos.png)
-
 ## Próximos Passos e Melhorias
 
 *   Validação do CAR: Implementar validações mais robustas para os dados do CAR, como verificação de CNPJ/CPF duplicados ou inconsistências cadastrais.

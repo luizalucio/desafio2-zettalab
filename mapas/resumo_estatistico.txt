@@ -1,0 +1,9 @@
+RELATORIO ESTATISTICO - DESMATAMENTO EM PROPRIEDADES RURAIS DO AMAPA
+
+RESUMO GERAL
+   • Total de propriedades com desmatamento: 6,447
+   • Area total das propriedades afetadas: 5,608,055.15 ha
+   • Area total desmatada: 713,921.16 ha
+   • % medio de desmatamento por propriedade: 21.82%
+
+

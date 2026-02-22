@@ -1,4 +1,4 @@
-# Desafio Zettalab: Identificação de Desmatamento em Propriedades Rurais do Amapá
+# Desafio 2 Zettalab: Identificação de Desmatamento em Propriedades Rurais do Amapá
 
 Este projeto foi desenvolvido como parte do Programa Zettalab - Desafio 2, um programa de seleção, desenvolvimento e integração de alunos da Universidade Federal de Lavras (UFLA), conduzido pela Agência Zetta/UFLA de Inovação, Geotecnologia e Sistemas Inteligentes. O desafio foca na aplicação de geotecnologias para a análise ambiental.
 
